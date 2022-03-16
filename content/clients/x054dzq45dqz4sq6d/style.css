@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+body {
+	background-color: #262626;
+}
+
+.logo {
+	padding: 17px 0 0 0;
+	width: 120px;
+	height: 120px;
+}
+
+.logotext {
+	color: #e8e8e8;
+	font-family: 'Lato', sans-serif;
+	font-size: 50px;
+	padding: 0 0 0 40px;
+}
+
+.slogantext {
+	color: #e8e8e8;
+	font-family: 'Lato', sans-serif;
+	font-size: 30px;
+	padding: 0 0 0 0px;
+}
+
+.downloadcontainer {
+	background-color: #353535;
+	width: 450px;
+	border-radius: 15px;
+}
+
+.dwntext {
+	padding: 17px 0 0 0;
+	color: #f2e160;
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+}
+.dwntext2 {
+	padding: 0 0 20px 0;
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+}
+
+.urldwn {
+	color: #f44e4e;
+	padding: 0 0 0 3px;
+}
